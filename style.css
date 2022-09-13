@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    background-color: #E7F6F2
+};
+
+input:hover {
+    border-color: blueviolet;
+}
+
+input {
+    border-color: A5C9CA;
+    margin-bottom: 20px;
+    width: 200px;
+}
+
+label {
+    font-weight: bold;
+    color: #395B64;
+}
+
+h1 {
+    color: #a6a6a6;
+    margin-bottom: 20px;
+}
+
+button {
+    color: #395B64;
+    border-style: solid 1px;
+    border-color: #E7F6F2;
+    height: 70px;
+    border-radius: 50%;
+}
+
+.warning {
+    font-size: 20px;
+    color: brown;
+}
+
+.result {
+    color: #2C3333;
+}
